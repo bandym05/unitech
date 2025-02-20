@@ -1,4 +1,4 @@
-```markdown
+
 # Technical Specification Document: Fraudulent Transaction Detection System for the South African Market
 
 ## 1. Introduction
