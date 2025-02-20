@@ -1,6 +1,12 @@
 
 # Technical Specification Document: Fraudulent Transaction Detection System for the South African Market
 
+
+
+https://github.com/user-attachments/assets/8f48e98a-0828-45a1-ad6f-b3d69f267226
+
+
+
 ## 1. Introduction
 
 ### 1.1 Purpose
